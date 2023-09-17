@@ -1,0 +1,56 @@
+/* Footer */
+.footer {
+    background-color:  #031524;
+    padding: 20px;
+    color: #f8f8f8;
+    height: 150px;
+  }
+  
+  /* Footer content */
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  
+  /* Footer sections */
+  .footer-section {
+    flex: 1 1 300px;
+    margin-bottom: 20px;
+  }
+  
+  .footer-section h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-section p {
+    margin: 0;
+  }
+  
+  /* Social icons */
+  .social-icons {
+    display: flex;
+  }
+  
+  .social-icons a {
+    color: #333;
+    text-decoration: none;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #4caf50;
+  }
+  
+  /* Footer bottom */
+  .footer-bottom {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  /* Other CSS styles for the footer */
+  /* ... */
+  

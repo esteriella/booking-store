@@ -1,0 +1,71 @@
+/* Booking form */
+
+
+/* .image-container {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.booking-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+} */
+
+.message-container {
+  flex: 1;
+  justify-content: center;
+  text-align: center;
+}
+
+
+.booking-form {
+    background-color: #f8f8f8;
+    /* padding: 20px; */
+    border-radius: 5px;
+  }
+
+  /* .booking-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  } */
+  
+  .booking-label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .booking-input,
+  .booking-textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .booking-select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .booking-submit {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .booking-submit:hover {
+    background-color: #45a049;
+  }
+  

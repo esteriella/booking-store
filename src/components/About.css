@@ -1,0 +1,32 @@
+/* About */
+.about {
+    background-color: #f8f8f8;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .about-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .about-content {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .about-link {
+    color: #4caf50;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .about-link:hover {
+    color: #45a049;
+  }
+  
+  /* Other CSS styles for the about section */
+  /* ... */
+  

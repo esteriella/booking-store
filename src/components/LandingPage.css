@@ -1,0 +1,88 @@
+.landing-page {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)), url(../Assets/bookings.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    background-position: center;
+    height: 400px;
+}
+
+.intro-message {
+    margin-top: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    font-weight: 700;
+    padding-top: 50px;
+    line-height: 1.5;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+  }
+  
+  .estie {
+    color: #031524;
+  }
+  
+  .span {
+    color: #b67513;
+  }
+  
+  .intro {
+    color: #c5c0c0;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+  }
+  
+  .btn {
+    padding: 10px;
+    margin-top: 90px;
+    font-size: 18px;
+    border-radius: 5px;
+    background-color: #b67513;
+    color: #031524;
+    border: 1px solid #b67513;
+    margin-left: 560px;
+    /* font-weight: 500; */
+  }
+
+  .btn:hover {
+    background-color: #031524;
+    border: 1px solid #031524;
+    color: #b67513;
+  }
+
+  .what-we-do {
+    text-align: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 80px;
+  }
+
+  .what-we-do h2 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #b67513;
+  }
+
+  .what-we-do p {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    margin-top: 5px;
+    padding: 0 50px;
+    text-align: center;
+    color: #3a3939;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .landing-page-content {
+   display: flex;
+   flex-direction: row;
+   gap: 30px;
+   box-sizing: border-box;
+   align-items: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   margin: 0 50px;
+  }
